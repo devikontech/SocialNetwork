@@ -116,7 +116,7 @@ dependencies {
     testImplementation "io.mockk:mockk:1.13.17"
     testImplementation "org.robolectric:robolectric:4.5.1"
 
-    androidTestImplementation 'com.google.dagger:hilt-android-testing:2.46.1'
+    androidTestImplementation 'com.google.dagger:hilt-android-testing:2.55'
     kaptAndroidTest 'com.google.dagger:hilt-android-compiler:2.46.1'
 
     // Instrumented Unit Tests
